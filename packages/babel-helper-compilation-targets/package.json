@@ -32,7 +32,8 @@
   "devDependencies": {
     "@babel/core": "workspace:*",
     "@babel/helper-plugin-test-runner": "workspace:*",
-    "@types/semver": "^5.5.0"
+    "@types/semver": "^5.5.0",
+    "rimraf": "^3.0.0"
   },
   "engines": {
     "node": ">=6.9.0"

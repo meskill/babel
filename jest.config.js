@@ -21,6 +21,7 @@ module.exports = {
     "/test/helpers/",
     "<rootDir>/test/warning\\.js",
     "<rootDir>/build/",
+    "<rootDir>/.history/",
     "_browser\\.js",
   ],
   testEnvironment: "node",

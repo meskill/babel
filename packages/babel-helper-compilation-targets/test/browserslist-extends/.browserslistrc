@@ -1,0 +1,3 @@
+[custom]
+extends @babel/browserslist-config
+chrome >= 71
